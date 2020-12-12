@@ -10,7 +10,7 @@ Ask me anything about...
 <img src='https://img.shields.io/badge/flutter-%230095D5?logo=flutter&logoColor=blue&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/> <img src='https://img.shields.io/badge/react-%2300ADD8.svg?&style=for-the-badge&logo=react&logoColor=white' height='25'/>
 
 
-You can reach out to me on...
+Reach out to me at...
 
 <a href="https://twitter.com/burhanrashid52">
   <img align="left" alt="Burhanuddin's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -21,6 +21,27 @@ You can reach out to me on...
 </a><a href="https://facebook.com/burhanrashid5253">
   <img align="left" alt="Burhanuddin's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
+<br/>
+<br/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=burhanrashid52&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+
+#### Languages
+<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/kotlin/kotlin-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/flutter/flutter-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Tools and Frameworks
+<img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/flutter/flutter-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/jetbrains/jetbrains-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
+
 <!--
 **burhanrashid52/burhanrashid52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
