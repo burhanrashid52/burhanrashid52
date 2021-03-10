@@ -42,7 +42,7 @@ Reach out to me at...
 <br/>
 <br/>
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/burhanrashid52">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanrashid52&theme=light&hide_langs_below=1" />
 </a>
 
