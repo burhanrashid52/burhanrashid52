@@ -46,8 +46,8 @@ Reach out to me at...
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanrashid52&theme=light&hide_langs_below=1" />
 </a>
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning Javascript
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Dart and Javascript
 - 👯 I’m looking to collaborate on Mobile Project
 - 🤔 I’m looking for help with my open source projects
 - 💬 Apart from tech you can Ask me about Movies, TV Shows and Books
