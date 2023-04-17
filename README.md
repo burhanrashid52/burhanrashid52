@@ -53,3 +53,9 @@ Reach out to me at...
 - 💬 Apart from tech you can Ask me about Movies, TV Shows and Books
 - 📫 How to reach me at burhanrashid5253@gmail.com
 - ⚡ Fun fact: I can mentally be present in a meeting for 45-60 minutes.
+
+<br/>
+<br/>
+
+### 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=burhanrashid52)](https://twitter.com/burhanrashid52/)<br><br>
